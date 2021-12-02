@@ -39,19 +39,19 @@
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
-            "required": true,
+            "required": true
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
-            "required": true,
+            "required": true
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
-            "required": true,
+            "required": true
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
-            "required": true,"
+            "required": true
         }
     },
     "addons": [],
