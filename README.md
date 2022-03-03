@@ -5,7 +5,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@mpb00121/PrestigiousGrossEngineering#main.py) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@mpb00121/TG-SESSION-PT2#main.py) ``Pyrogram``
 
 ## 🎭 Preview
 <p align="center">
